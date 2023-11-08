@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WalkJim197
-- 👀 I’m interested in neuroscience and everything related to Ai
+- 👀 I’m interested in NeuroAI
 - 🌱 I’m currently learning LLM and getting to be full stack
 - 💞️ I’m looking to collaborate on research or application in my interest
 - 📫 How to reach me @微信公众号：研途用脑
