@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WalkJim197
+- 👋 Hi, I’m Jim Jing
 - 👀 I’m interested in NeuroAI
 - 🌱 I’m currently learning LLM and getting to be full stack
 - 💞️ I’m looking to collaborate on research or application in my interest
